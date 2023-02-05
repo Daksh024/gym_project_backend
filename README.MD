@@ -1,4 +1,4 @@
-# This is a practice Repository for create a project.
+# This is a practice Repository for creating a project.
 
 Please create your own python virtual environment to work.
 
