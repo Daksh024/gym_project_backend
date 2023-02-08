@@ -1,8 +1,8 @@
-# This is a practice Repository for creating a project.
+# This is a practice Repository for creating a project
 
 Please create your own python virtual environment to work.
 
-### To create an Environment 
+### To create an environment
 
 python -m venv <YOUR_ENV_NAME>
 
@@ -14,4 +14,4 @@ Once you activate the venv then install django.
 
 pip install Django
 
-follow the steps as follows https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+follow the steps as follows <https://docs.djangoproject.com/en/4.1/intro/tutorial01/>
